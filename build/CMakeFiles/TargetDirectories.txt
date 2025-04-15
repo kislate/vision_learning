@@ -1,0 +1,3 @@
+D:/github_vs/vision_learning/build/CMakeFiles/opencv_test.dir
+D:/github_vs/vision_learning/build/CMakeFiles/ALL_BUILD.dir
+D:/github_vs/vision_learning/build/CMakeFiles/ZERO_CHECK.dir
